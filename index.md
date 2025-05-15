@@ -175,4 +175,4 @@ Verifikasi Final Checklist (Checklist dianggap SELESAI)
 ---
 
 **Mari sukseskan operasional toko bersama dengan checklist yang jujur, tepat waktu, dan lengkap!**  
-**Setiap isian adalah bentuk tanggung jawab Anda terhadap standar operasional Erajaya.**
+**Setiap isian adalah bentuk tanggung jawab Anda terhadap standar operasional Toko.**
